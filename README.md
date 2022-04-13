@@ -20,3 +20,6 @@ Bootcamp Carrefour Web Developer
 ![Print da Aula Inaugural de 13/04/2022 às 19hs!](./image/aula_inaugural.png)
 
 
+# #CarrefourWebDeveloperDIO
+# #ContratoDeCompromisso
+
